@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\SIngletonClass\SIngletonClass\bin\Debug\net6.0\SIngletonClass.exe
+C:\Users\Admin\source\repos\SIngletonClass\SIngletonClass\bin\Debug\net6.0\SIngletonClass.deps.json
+C:\Users\Admin\source\repos\SIngletonClass\SIngletonClass\bin\Debug\net6.0\SIngletonClass.runtimeconfig.json
+C:\Users\Admin\source\repos\SIngletonClass\SIngletonClass\bin\Debug\net6.0\SIngletonClass.dll
+C:\Users\Admin\source\repos\SIngletonClass\SIngletonClass\bin\Debug\net6.0\SIngletonClass.pdb
+C:\Users\Admin\source\repos\SIngletonClass\SIngletonClass\obj\Debug\net6.0\SIngletonClass.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\SIngletonClass\SIngletonClass\obj\Debug\net6.0\SIngletonClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\SIngletonClass\SIngletonClass\obj\Debug\net6.0\SIngletonClass.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\SIngletonClass\SIngletonClass\obj\Debug\net6.0\SIngletonClass.AssemblyInfo.cs
+C:\Users\Admin\source\repos\SIngletonClass\SIngletonClass\obj\Debug\net6.0\SIngletonClass.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\SIngletonClass\SIngletonClass\obj\Debug\net6.0\SIngletonClass.dll
+C:\Users\Admin\source\repos\SIngletonClass\SIngletonClass\obj\Debug\net6.0\refint\SIngletonClass.dll
+C:\Users\Admin\source\repos\SIngletonClass\SIngletonClass\obj\Debug\net6.0\SIngletonClass.pdb
+C:\Users\Admin\source\repos\SIngletonClass\SIngletonClass\obj\Debug\net6.0\SIngletonClass.genruntimeconfig.cache
+C:\Users\Admin\source\repos\SIngletonClass\SIngletonClass\obj\Debug\net6.0\ref\SIngletonClass.dll
