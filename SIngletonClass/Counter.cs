@@ -8,10 +8,17 @@ namespace SIngletonClass
 {
     public sealed class Counter
     {
-        private static int count1 = 0;
+        public static int count1 = 0;
         static int count = 0;
         private static Counter instance = null;
-        private Counter()
+        //default
+        public Counter()
+        {
+            count1++;
+            Console.WriteLine("Default Value:" +count1);
+        }
+        //static
+        static Counter()
         {
             count1++;
             Console.WriteLine("Value: "+count1);
