@@ -14,8 +14,7 @@ namespace SIngletonClass
         //default
         private Counter()
         {
-            count1++;
-            Console.WriteLine("Default Value:" +count1);
+          
         }
         //static
         static Counter()

@@ -11,6 +11,15 @@ namespace SingletonClass
         static void Main(string[] args)
         {
             Counter count = Counter.getInstance;
+            Counter c1 = Counter.getInstance;
+            if (count == c1)
+            {
+                Console.WriteLine("Singleton Implemented ");
+            }
+            else
+            {
+                Console.WriteLine("Singleton not implemented");
+            }
             count.increment();
             count.increment();
             count.decrement();
